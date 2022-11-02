@@ -15,7 +15,7 @@ let skills = [
 			},
 			{
 				title:"JavaScript",
-				percent:30
+				percent:50
 			},
 			{
 				title:"React",
@@ -31,15 +31,15 @@ let skills = [
 		set:[
 			{
 				title:"php",
-				percent:30  
+				percent:50  
 			},
 			{
 				title:"laravel",
-				percent:35  
+				percent:50
 			},
 			{
 				title:"MySql",
-				percent:35  
+				percent:50 
 			}
 		]
 	}
