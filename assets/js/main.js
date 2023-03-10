@@ -87,12 +87,6 @@ modalCloses.forEach((modalClose) =>{
 		})
 	})
 })
-/*==================== PORTFOLIO SWIPER  ====================*/
-
-
-/*==================== TESTIMONIAL ====================*/
-
-
 /*==================== SCROLL SECTIONS ACTIVE LINK ====================*/
 const sections = document.querySelectorAll('section[id]')
 
@@ -111,12 +105,10 @@ function scrollActive(){
 			}else{
 				div.classList.remove('active-link')
 			}
-		}
-		
+		}	
 	})
 }
 window.addEventListener('scroll',scrollActive)
-
 /*==================== CHANGE BACKGROUND HEADER ====================*/ 
 function scrollHeader(){
 	const nav = document.getElementById('header')
