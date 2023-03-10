@@ -3,7 +3,7 @@ let skills = [
 		id:1,
 		img: "uil uil-brackets-curly",
 		title:"frontend",
-		experience:"1+ years of work experience",
+		experience:"2+ years of work experience",
 		set:[
 			{
 				title:"HTML",
@@ -20,6 +20,10 @@ let skills = [
 			{
 				title:"React",
 				percent:50
+			},
+			{
+				title:"VUE",
+				percent:60
 			},
 		]
 	},
