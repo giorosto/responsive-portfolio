@@ -15,11 +15,11 @@ let skills = [
 			},
 			{
 				title:"JavaScript",
-				percent:50
+				percent:60
 			},
 			{
 				title:"React",
-				percent:50
+				percent:60
 			},
 			{
 				title:"VUE",
@@ -39,7 +39,7 @@ let skills = [
 			},
 			{
 				title:"laravel",
-				percent:70
+				percent:80
 			},
 			{
 				title:"MySql",
