@@ -7,15 +7,15 @@ let skills = [
 		set:[
 			{
 				title:"HTML",
-				percent:70
+				percent:90
 			},
 			{
 				title:"CSS",
-				percent:65
+				percent:80
 			},
 			{
 				title:"JavaScript",
-				percent:60
+				percent:70
 			},
 			{
 				title:"React",
